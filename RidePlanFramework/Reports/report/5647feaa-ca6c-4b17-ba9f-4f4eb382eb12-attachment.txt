@@ -1,0 +1,10 @@
+setup for device
+**** Test case ID 001 VerifyStartingPages Testcase started****
+Testcase Run on android
+Text is match--> Expected Result: Hi there!---||--- Actual Result : Hi there!
+Verify Bike ride Text  --> Displayed
+Clicked on Continue Button
+Clicked on Continue Button
+Clicked on Continue Button
+Clicked on Continue Button
+1st alert accepted

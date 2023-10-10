@@ -1,0 +1,1 @@
+[32mINFO    [0m root:test_VerifyOnboardingPages.py:24 **** Test case ID 001 VerifyStartingPages Testcase started****

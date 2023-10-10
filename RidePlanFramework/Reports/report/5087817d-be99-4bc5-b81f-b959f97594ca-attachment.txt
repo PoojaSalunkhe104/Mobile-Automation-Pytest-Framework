@@ -1,0 +1,9 @@
+# /Library/Frameworks/Python.framework/Versions/3.10/lib/python3.10/encodings/__pycache__/idna.cpython-310.pyc matches /Library/Frameworks/Python.framework/Versions/3.10/lib/python3.10/encodings/idna.py
+# code object from '/Library/Frameworks/Python.framework/Versions/3.10/lib/python3.10/encodings/__pycache__/idna.cpython-310.pyc'
+# /Library/Frameworks/Python.framework/Versions/3.10/lib/python3.10/__pycache__/stringprep.cpython-310.pyc matches /Library/Frameworks/Python.framework/Versions/3.10/lib/python3.10/stringprep.py
+# code object from '/Library/Frameworks/Python.framework/Versions/3.10/lib/python3.10/__pycache__/stringprep.cpython-310.pyc'
+import 'stringprep' # <_frozen_importlib_external.SourceFileLoader object at 0x109cc9840>
+import 'encodings.idna' # <_frozen_importlib_external.SourceFileLoader object at 0x109cc95a0>
+# /Library/Frameworks/Python.framework/Versions/3.10/lib/python3.10/encodings/__pycache__/cp437.cpython-310.pyc matches /Library/Frameworks/Python.framework/Versions/3.10/lib/python3.10/encodings/cp437.py
+# code object from '/Library/Frameworks/Python.framework/Versions/3.10/lib/python3.10/encodings/__pycache__/cp437.cpython-310.pyc'
+import 'encodings.cp437' # <_frozen_importlib_external.SourceFileLoader object at 0x109cc9f60>

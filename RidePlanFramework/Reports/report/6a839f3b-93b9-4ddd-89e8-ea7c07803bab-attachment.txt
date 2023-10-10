@@ -1,0 +1,12 @@
+setup for device
+**** Test case ID 002 Verify Bike Routes polyline Testcase started****
+Testcase Run on iOS
+Clicked on Continue Button
+Clicked on Continue Button
+Clicked on Continue Button
+Clicked on Continue Button
+Clicked on Don't Allow Button
+Click on Where To function
+Send Address in Text search: Cnr LaTrobe and Swanston Streets, Melbourne VIC 3000, Australia
+Click on Route Button
+Quit the driver

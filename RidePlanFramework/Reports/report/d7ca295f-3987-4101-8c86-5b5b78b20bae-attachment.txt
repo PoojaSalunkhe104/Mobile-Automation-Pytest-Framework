@@ -1,0 +1,4 @@
+setup for device
+**** Test case ID 001 VerifyStartingPages Testcase started****
+Testcase Run on iOS
+Test case failed

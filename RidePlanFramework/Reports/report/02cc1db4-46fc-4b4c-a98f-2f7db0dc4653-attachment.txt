@@ -1,0 +1,9 @@
+[32mINFO    [0m root:test_VerifyOnboardingPages.py:24 **** Test case ID 001 VerifyStartingPages Testcase started****
+[32mINFO    [0m root:CommonUtils.py:25 Text is match--> Expected Result: Hi there!---||--- Actual Result : Hi there!
+[32mINFO    [0m root:CommonUtils.py:38 Verify Bike ride Text  --> Displayed
+[32mINFO    [0m root:Android_HiThere_ContinuePage.py:30 Clicked on Continue Button
+[32mINFO    [0m root:Android_HiThere_ContinuePage.py:30 Clicked on Continue Button
+[32mINFO    [0m root:Android_HiThere_ContinuePage.py:30 Clicked on Continue Button
+[32mINFO    [0m root:Android_HiThere_ContinuePage.py:30 Clicked on Continue Button
+[32mINFO    [0m root:test_VerifyOnboardingPages.py:71 1st alert accepted
+[32mINFO    [0m root:test_VerifyOnboardingPages.py:82 2nd alert accepted

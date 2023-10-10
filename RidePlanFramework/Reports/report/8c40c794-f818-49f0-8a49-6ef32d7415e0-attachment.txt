@@ -1,0 +1,7 @@
+[32mINFO    [0m root:test_VerifyBikeRoutes.py:17 **** Test case ID 002 Verify Bike Routes polyline Testcase started****
+[32mINFO    [0m root:Android_HiThere_ContinuePage.py:31 Clicked on Continue Button
+[32mINFO    [0m root:Android_HiThere_ContinuePage.py:31 Clicked on Continue Button
+[32mINFO    [0m root:Android_HiThere_ContinuePage.py:31 Clicked on Continue Button
+[32mINFO    [0m root:Android_HiThere_ContinuePage.py:31 Clicked on Continue Button
+[32mINFO    [0m root:CommonUtils.py:63 1st alert accepted
+[32mINFO    [0m root:CommonUtils.py:74 2nd alert accepted
