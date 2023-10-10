@@ -74,7 +74,6 @@ Step 9: Grouping Tests
 
 9.2: Add Marker entries in pytest.ini file
 pytest.ini
-------
 [pytest]
 Markers = 
    sanity
